@@ -1,0 +1,47 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  align-items: center;
+}
+
+.icon img {
+  width: 50px;
+  height: 50px;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon p {
+  font-weight: 700;
+  font-size: 39px;
+  color: #f27c0f;
+  margin: 0;
+  font-family: 'Gilroy-Regular', sans-serif;
+}
+
+.navbar {
+  width: 568px;
+  height: 82px;
+
+  background: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav {
+  width: 240px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar a {
+  font-family: 'Gilroy-Regular', sans-serif;
+  text-decoration: none;
+  color: #003399;
+  font-size: 24px;
+}

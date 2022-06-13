@@ -1,0 +1,45 @@
+footer {
+  padding: 30px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.logo {
+  font-family: 'Gilroy-Regular', sans-serif;
+  width: 67px;
+  display: flex;
+  justify-content: space-between;
+  height: 35px;
+  color: #0000004D ;
+  align-items: center;
+}
+
+.logo img {
+  width: 28px; 
+  height: 28px;
+}
+
+.footerMenu {
+  width: 360px;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.footerMenu a {
+  font-family: 'Gilroy-Regular', sans-serif;
+  text-decoration: none;
+  line-height: 35px;
+  color: #b85f0bdb
+}
+.intocode {
+  font-family: 'Gilroy-Regular', sans-serif;
+  text-align: center;
+  width: 182px;
+background-color: white;
+height: 37px;
+line-height: 37px;
+}
